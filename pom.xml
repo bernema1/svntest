@@ -3,15 +3,15 @@
 
   <groupId>ch.qualitas</groupId>
   <artifactId>svntest</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>svntest</name>
   <url>http://maven.apache.org</url>
 
   <scm>
-    <url>https://github.com/bernema1/svntest/tags/0.0.1</url>
-    <developerConnection>scm:svn:https://github.com/bernema1/svntest/tags/0.0.1</developerConnection>
+    <url>https://github.com/bernema1/svntest</url>
+    <developerConnection>scm:svn:https://github.com/bernema1/svntest/trunk</developerConnection>
   </scm>
 
   <properties>
