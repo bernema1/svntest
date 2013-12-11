@@ -10,6 +10,11 @@
   <name>svntest</name>
   <url>http://maven.apache.org</url>
 
+  <scm>
+    <url>https://github.com/bernema1/svntest</url>
+    <developerConnection>scm:svn:https://github.com/bernema1/svntest/trunk</developerConnection>
+  </scm>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
